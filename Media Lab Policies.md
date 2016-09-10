@@ -2,7 +2,7 @@
 
 • To use the Media Lab outside of class time you must [make a reservation using online reservation system](https://resources.ideate.cmu.edu/reservations/day.php?area=5).
 
-• When you are finished working *restore the room to a usable state*.  Any props, equipment, or cables that were used must be removed.
+• When you are finished working you must *restore the room to a usable state*.  Any props, equipment, or cables that were used must be removed.
 
 • If you are the last person leaving the Media Lab you must perform the following shut-down procedure, to protect our equipment:
 
