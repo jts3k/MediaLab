@@ -1,0 +1,1 @@
+To use these patches the entire directory must be moved to your Max Library (by default this will be **~/Documents/Max 7/Library** on a Mac and **C:\ProgramData\Max 7\Library** on Windows).  These patches make use of the third-party [imp.artnet.controller] object available at [http://www.theimpersonalstereo.com/impdmx/](http://www.theimpersonalstereo.com/impdmx/).
