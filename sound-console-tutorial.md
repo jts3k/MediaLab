@@ -1,5 +1,4 @@
 # How to use the mixing console in the Media Lab like a champion
-![0](images/audio-tutorial-00.gif)
 ![1](images/audio-tutorial-01.gif)
 ![2](images/audio-tutorial-02.gif)
 ![3](images/audio-tutorial-03.gif)
