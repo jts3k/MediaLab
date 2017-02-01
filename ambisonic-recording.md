@@ -1,6 +1,6 @@
 # Ambisonic Recording How-to
 
-The [Core-Sound Tetramic](http://www.core-sound.com/TetraMic/1.php) delivers A-Format audio to a sound recorder with a minimum of four microphone inputs.  It is necessary for the microphone inputs to have their gain set to the *exact same gain level*.  The Zoom F8 recorder simplifies this task because we can set one knob to control the gain of multiple inputs.  By default the F8 sould have Knob 1 control the gain for microphone inputs 1 through 4.  To verify this you can page through the main interface by twisting the encoder until you see a virtual mixer:
+The [Core-Sound Tetramic](http://www.core-sound.com/TetraMic/1.php) delivers A-Format audio to a sound recorder with a minimum of four microphone inputs.  We are using a Zoom F8 which can be powered by 8 AA batteries (make sure your batteries are fully charged before going out in the field).  It is necessary for the microphone inputs to have their gain set to the *exact same gain level*.  The Zoom F8 recorder simplifies this task because we can set one knob to control the gain of multiple inputs.  By default the F8 sould have Knob 1 control the gain for microphone inputs 1 through 4.  To verify this you can page through the main interface by twisting the encoder until you see a virtual mixer:
 
 <img src="ambisonic-recording/images/ZoomF8-mixer.jpg" width="150" height="100"/>  Zoom F8 Multitrack Recorder
 
