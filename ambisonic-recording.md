@@ -8,4 +8,4 @@ Turning Knob 1 should show gain changing on inputs 1 through 4.  If this is not 
 
 Set your levels so there is clipping.  Hit Record to start recording and stop to stop recording.  Monitor your recording with the headphone output jack (you will probably need an 1/4" to 1/8" adapter for this).  What you are hearing is a mix of the channels turned up in the Zoom F8 virtual mixer.  It is not a proper ambisonic decoding, but will allow you to determine that your audio is clear and not distorted in any way.
 
-The Zoom will produce four-channel WAV files containing your A-Format audio.  Core-Sound produces a [custom VST](https://www.vvaudio.com/products/VVTetraVST) to calibrate the A-format signal and convert it to B-Format.
+The Zoom will produce four-channel WAV files containing your A-Format audio.  Core-Sound produces a [custom VST](https://www.vvaudio.com/products/VVTetraVST) to calibrate the A-format signal and convert it to B-Format.  This VST makes use of the custom callibration files produced by Core-Sound for every microphone they produce.  Make note of the serial number for the microphone and use the corresponding callibration files.
